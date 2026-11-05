@@ -67,8 +67,8 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nuhregaibunsal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuhregaibunsal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="top languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nuhregaibunsal&theme=tokyonight&hide_border=true" />
