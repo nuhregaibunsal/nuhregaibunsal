@@ -71,3 +71,10 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nuhregaibunsal&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nuhregaibunsal/nuhregaibunsal/output/github-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/nuhregaibunsal/nuhregaibunsal/output/github-snake.svg" />
+  </picture>
+</p>
