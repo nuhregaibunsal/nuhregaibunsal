@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <a href="https://nuhregaibunsal.github.io"><img src="https://img.shields.io/badge/Portfolio-nuhregaibunsal.github.io-d9480f?style=for-the-badge" alt="Portfolio" /></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=nuhregaibunsal&style=flat-square&color=0e75b6&label=Profile+views" alt="profile views" />
 </p>
 
