@@ -59,14 +59,14 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**CoinPulse**](https://github.com/nuhregaibunsal/i2i-Academy-CoinPulse-17) | Crypto trading platform with live prices, portfolios and an AI market assistant | Spring Boot · React · Redis · PostgreSQL |
-| [**VoltWise**](https://github.com/nuhregaibunsal/i2i-Academy-VoltiHome-18) | Real-time IoT energy analytics with LLM-generated saving advice | Spring Boot · Kafka · Ignite · Gemini |
-| [**License Plate Reader**](https://github.com/nuhregaibunsal/i2i-Academy-AppliedImageProcessing-9) | Classical ALPR pipeline that detects and reads car plates | OpenCV · EasyOCR |
-| [**ETL Pipeline**](https://github.com/nuhregaibunsal/i2i-Academy-WebScrapingAndETLPipeline-15) | Scrape → clean → idempotent load into Dockerized PostgreSQL | Python · pandas · Docker |
-| [**Kafka EDA**](https://github.com/nuhregaibunsal/i2i-Academy-EDAWithApacheKafka-6) | Event-driven producer/consumer demo with custom objects | Java · Kafka · Docker |
+| [**CoinPulse**](https://github.com/nuhregaibunsal/cryptopal) | Crypto trading platform with live prices, portfolios and an AI market assistant | Spring Boot · React · Redis · PostgreSQL |
+| [**VoltWise**](https://github.com/nuhregaibunsal/voltwise) | Real-time IoT energy analytics with LLM-generated saving advice | Spring Boot · Kafka · Ignite · Gemini |
+| [**License Plate Reader**](https://github.com/nuhregaibunsal/license-plate-recognition) | Classical ALPR pipeline that detects and reads car plates | OpenCV · EasyOCR |
+| [**ETL Pipeline**](https://github.com/nuhregaibunsal/books-etl-pipeline) | Scrape → clean → idempotent load into Dockerized PostgreSQL | Python · pandas · Docker |
+| [**Kafka EDA**](https://github.com/nuhregaibunsal/kafka-order-events) | Event-driven producer/consumer demo with custom objects | Java · Kafka · Docker |
 | [**Keep on Mining Bot**](https://github.com/nuhregaibunsal/keep-on-mining-bot) | Computer-vision game bot with upgrade planner, watchdog and web dashboard | Python · OpenCV · C# (BepInEx) |
 | [**Makro Stüdyo**](https://github.com/nuhregaibunsal/makro-studyo) | Keyboard + mouse macro recorder with scan-code replay | Python · CustomTkinter · Win32 |
-| [**Driftline**](https://github.com/nuhregaibunsal/i2i-Academy-ThreeJS-12) | Neon synthwave runner with combos, bloom and mobile controls — [▶ play it](https://nuhregaibunsal.github.io/i2i-Academy-ThreeJS-12/) | React Three Fiber · GLSL |
+| [**Driftline**](https://github.com/nuhregaibunsal/driftline) | Neon synthwave runner with combos, bloom and mobile controls — [▶ play it](https://nuhregaibunsal.github.io/driftline/) | React Three Fiber · GLSL |
 
 ### 📊 GitHub stats
 
