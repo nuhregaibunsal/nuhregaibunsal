@@ -62,7 +62,7 @@
 | [**Kafka EDA**](https://github.com/nuhregaibunsal/i2i-Academy-EDAWithApacheKafka-6) | Event-driven producer/consumer demo with custom objects | Java · Kafka · Docker |
 | [**Keep on Mining Bot**](https://github.com/nuhregaibunsal/keep-on-mining-bot) | Computer-vision game bot with upgrade planner, watchdog and web dashboard | Python · OpenCV · C# (BepInEx) |
 | [**Makro Stüdyo**](https://github.com/nuhregaibunsal/makro-studyo) | Keyboard + mouse macro recorder with scan-code replay | Python · CustomTkinter · Win32 |
-| [**3D Obstacle Avoider**](https://github.com/nuhregaibunsal/i2i-Academy-ThreeJS-12) | Small browser game in 3D — [play it](https://nuhregaibunsal.github.io/i2i-Academy-ThreeJS-12/) | React Three Fiber |
+| [**Driftline**](https://github.com/nuhregaibunsal/i2i-Academy-ThreeJS-12) | Neon synthwave runner with combos, bloom and mobile controls — [▶ play it](https://nuhregaibunsal.github.io/i2i-Academy-ThreeJS-12/) | React Three Fiber · GLSL |
 
 ### 📊 GitHub stats
 
